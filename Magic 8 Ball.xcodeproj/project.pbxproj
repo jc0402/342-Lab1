@@ -14,6 +14,7 @@
 		C644A2A01C8E499200D964E8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C644A29E1C8E499200D964E8 /* LaunchScreen.storyboard */; };
 		C644A2AB1C8E499200D964E8 /* Magic_8_BallTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C644A2AA1C8E499200D964E8 /* Magic_8_BallTests.swift */; };
 		C644A2B61C8E499200D964E8 /* Magic_8_BallUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C644A2B51C8E499200D964E8 /* Magic_8_BallUITests.swift */; };
+		C644A2C41C8E530D00D964E8 /* EightBallModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = C644A2C31C8E530D00D964E8 /* EightBallModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		C644A2B11C8E499200D964E8 /* Magic 8 BallUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Magic 8 BallUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C644A2B51C8E499200D964E8 /* Magic_8_BallUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Magic_8_BallUITests.swift; sourceTree = "<group>"; };
 		C644A2B71C8E499200D964E8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C644A2C31C8E530D00D964E8 /* EightBallModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EightBallModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				C644A29C1C8E499200D964E8 /* Assets.xcassets */,
 				C644A29E1C8E499200D964E8 /* LaunchScreen.storyboard */,
 				C644A2A11C8E499200D964E8 /* Info.plist */,
+				C644A2C31C8E530D00D964E8 /* EightBallModel.swift */,
 			);
 			path = "Magic 8 Ball";
 			sourceTree = "<group>";
@@ -258,6 +261,7 @@
 			files = (
 				C644A2981C8E499200D964E8 /* ViewController.swift in Sources */,
 				C644A2961C8E499200D964E8 /* AppDelegate.swift in Sources */,
+				C644A2C41C8E530D00D964E8 /* EightBallModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
